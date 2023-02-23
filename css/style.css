@@ -7,9 +7,8 @@ img{
     width: 150px;
     height: 150px;
 }
-.price{
+.price, .price1, .price2, .price3, .price4{
     color: blue;
-   
 }
 .description{
     padding-left: 20px;
